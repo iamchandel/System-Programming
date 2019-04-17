@@ -1,0 +1,12 @@
+struct s
+{
+	int x;
+	char ch;	
+};	
+int main()
+{
+	int a=1,b=10,c;
+	c=a+b;
+	printf("Answer%d",c);
+	return 0;
+}
